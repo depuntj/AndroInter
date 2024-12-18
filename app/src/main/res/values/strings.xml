@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AndroInter</string>
+    <string name="hint_password">Password</string>
+    <string name="error_password_length">Password harus memiliki minimal 8 karakter</string>
+    <string name="story_not_found">Story not found</string>
+    <string name="story_description_not_available">Description not available</string>
+    <string name="story_image">Story Image</string>
+    <string name="error_story_not_found">Story not found</string>
+    <string name="error_story_description_missing">Description not available</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="add_story">Add your Story</string>
+    <string name="welcome_message">Welcome to the Story App</string>
+    <string name="logout">Logout</string>
+    <string name="error_email_format">Format email tidak valid</string>
+    <string name="add_description">Add description</string>
+    <string name="latitude_optional">Latitude (optional)</string>
+    <string name="longitude_optional">Longitude (optional)</string>
+    <string name="story_name">Story Name</string>
+    <string name="story_description_goes_here">Story description goes here.</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_daftar_di_sini">Belum punya akun? Daftar di sini</string>
+    <string name="welcome_to_the_story_page">Welcome to the Story Page!</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="no_stories_available">No Stories Available</string>
+    <string name="change_language">Change Language</string>
+    <string name="story_maps">Story Maps</string>
+    <string name="include_location">Include Location</string>
+    <string name="waiting_location">Waiting for location…</string>
+    <string name="location_format">Location: %.6f, %.6f</string>
+
+</resources>

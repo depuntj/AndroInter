@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroInter</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="error_password_length">Password harus memiliki minimal 8 karakter</string>
+    <string name="story_not_found">Cerita tidak ditemukan</string>
+    <string name="story_description_not_available">Deskripsi tidak tersedia</string>
+    <string name="story_image">Gambar Cerita</string>
+    <string name="error_story_not_found">Cerita tidak ditemukan</string>
+    <string name="error_story_description_missing">Deskripsi tidak tersedia</string>
+    <string name="select_photo">Pilih Foto</string>
+    <string name="add_story">Tambah Cerita Anda</string>
+    <string name="welcome_message">Selamat Datang di Aplikasi Story</string>
+    <string name="logout">Keluar</string>
+    <string name="error_email_format">Format email tidak valid</string>
+    <string name="add_description">Tambah deskripsi</string>
+    <string name="latitude_optional">Latitude (opsional)</string>
+    <string name="longitude_optional">Longitude (opsional)</string>
+    <string name="story_name">Nama Cerita</string>
+    <string name="story_description_goes_here">Deskripsi cerita di sini.</string>
+    <string name="welcome_back">Selamat Datang Kembali!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="belum_punya_akun_daftar_di_sini">Belum punya akun? Daftar di sini</string>
+    <string name="welcome_to_the_story_page">Selamat Datang di Halaman Cerita!</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="name">Nama</string>
+    <string name="register">Daftar</string>
+    <string name="no_stories_available">Tidak Ada Cerita Tersedia</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="story_maps">Peta Cerita</string>
+    <string name="include_location">Sertakan Lokasi</string>
+    <string name="waiting_location">Menunggu lokasi…</string>
+    <string name="location_format">Lokasi: %.6f, %.6f</string>
+</resources>
